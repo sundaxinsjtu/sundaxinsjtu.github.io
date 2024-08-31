@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a research associate fellow at [School of Management and Engineering](https://sme.nju.edu.cn/englishversion/main.htm), [Nanjing University](https://www.nju.edu.cn/). My research interests include institutional infrastructure, innovation, and strategy.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Daxin Sun's Curriculum Vitae](../assets/Sun-Daxin-CV.pdf).
 
 [Email](mailto:sundaxin@nju.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
