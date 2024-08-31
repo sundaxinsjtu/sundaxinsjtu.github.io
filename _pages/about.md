@@ -13,9 +13,6 @@ You can find my CV here: [Daxin Sun's Curriculum Vitae](../assets/Sun-Daxin-CV-w
 
 
 
-
-</td></tr></table>
-
 <h2>Education</h2>
 <p> I received the Ph.D. degree (Advisor: Professor <a href="https://www.cityu.edu.hk/adse/mehxli.htm">Saixing Zeng</a>) from Shanghai Jiao Tong University and the bachelor's degree from Southwestern University of Finance and Economics. 
 I was a visiting scholar at the University of Minnesota (Visiting Advisor: Professor <a href="https://carlsonschool.umn.edu/faculty/shaker-zahra">Shaker A. Zahra</a>).
