@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Daxin Sun / Personal Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Daxin Sun"
 description              : &description "personal description"
 url                      : https://sundaxinsjtu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sundaxinsjtu/sundaxinsjtu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
